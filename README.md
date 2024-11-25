@@ -15,7 +15,7 @@
 
 # En este Curso Aprenderas lo Siguiente:
 
->📖Introducción a la Ciberseguridad [Informacion]()
+>📖Introducción a la Ciberseguridad [Informacion](00.📖Introducción a la Ciberseguridad/Informacion.md)
 >
 >🛠Introduccion al Entorno de Hacking [Informacion]
 >
