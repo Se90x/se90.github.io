@@ -15,18 +15,17 @@
 
 # En este Curso Aprenderas lo Siguiente:
 
->📖Introducción a la Ciberseguridad
-
->🛠Introduccion al Entorno de Hacking
-
->🌐Fundamentos de Redes
-
->⚠Tecnicas Ataque
->**🚫No se puede hackear en sitios públicos ya que es totalmente ilegal. Los ataques solo ocurren en redes controladas o con acceso autorizado mediante contrato.🚫**
-
->🟩Resolucion de Maquinas HTB
-
->📃💼Documentación e Informes
+>📖Introducción a la Ciberseguridad [Informacion]()
+>
+>🛠Introduccion al Entorno de Hacking [Informacion]
+>
+>🌐Fundamentos de Redes [Informacion]
+>
+>⚠Tecnicas Ataque [Informacion]
+>
+>🟩Resolucion de Maquinas HTB [Informacion]
+>
+>📃💼Documentación e Informes [Informacion]
 
 ---
 
