@@ -66,7 +66,7 @@ en: &DEFAULT_EN
     people:
       - name: "Miquel Rodriguez"
         role: "Diseñador Grafico"
-        image: assets/img/team/500x500.jpg
+        image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F025%2F463%2F773%2Foriginal%2Fhacker-logo-design-a-mysterious-and-dangerous-hacker-illustration-vector.jpg&f=1&nofb=1&ipt=4eadbea4dd1fe3838cddcb6d58636e3829d8ef513818e61f4f1ab150e638ff29&ipo=images
         social:
           - url: https://x.com
             icon: fab fa-twitter
@@ -191,7 +191,7 @@ es: &DEFAULT_ES
     people:
       - name: "Miquel Rodriguez"
         role: "Diseñador Grafico"
-        image: assets/img/team/500x500.jpg
+        image: https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fstatic.vecteezy.com%2Fsystem%2Fresources%2Fpreviews%2F025%2F463%2F773%2Foriginal%2Fhacker-logo-design-a-mysterious-and-dangerous-hacker-illustration-vector.jpg&f=1&nofb=1&ipt=4eadbea4dd1fe3838cddcb6d58636e3829d8ef513818e61f4f1ab150e638ff29&ipo=images
         social:
           - url: https://x.com
             icon: fab fa-twitter
