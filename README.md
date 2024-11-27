@@ -15,17 +15,17 @@
 
 # En este Curso Aprenderas lo Siguiente:
 
->📖Introducción a la Ciberseguridad [Informacion](00.📖Introducción_Ciberseguridad/Informacion.md)
+>📖Introducción a la Ciberseguridad [Informacion](/Curso/00.📖Introducción_Ciberseguridad/Informacion.md)
 >
->🛠Introduccion al Entorno de Hacking [Informacion](01.🛠Introduccion_Entorno_Hacking/Informacion.md)
+>🛠Introduccion al Entorno de Hacking [Informacion](/Curso/01.🛠Introduccion_Entorno_Hacking/Informacion.md)
 >
->🌐Fundamentos de Redes [Informacion](02.🌐Fundamentos_Redes/Informacion.md)
+>🌐Fundamentos de Redes [Informacion](/Curso/02.🌐Fundamentos_Redes/Informacion.md)
 >
->⚠Tecnicas Ataque [Informacion](03.⚠Tecnicas_Ataque/Informacion.md)
+>⚠Tecnicas Ataque [Informacion](/Curso/03.⚠Tecnicas_Ataque/Informacion.md)
 >
->🟩Resolucion de Maquinas HTB [Informacion](04.🟩Resolucion_Maquinas_HTB/Informacion.md)
+>🟩Resolucion de Maquinas HTB [Informacion](/Curso/04.🟩Resolucion_Maquinas_HTB/Informacion.md)
 >
->📃💼Documentación e Informes [Informacion](05.📃💼Documentación_Informes/Informacion.md)
+>📃💼Documentación e Informes [Informacion](/Curso/05.📃💼Documentación_Informes/Informacion.md)
 
 ---
 
