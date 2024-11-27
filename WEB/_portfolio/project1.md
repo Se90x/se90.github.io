@@ -11,4 +11,5 @@ caption:
 ---
 
 Proximamente.
+
 {:.list-inline}
